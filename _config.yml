@@ -1,0 +1,21 @@
+# Site settings
+title: Becoming a Coder
+header-img: img/home-bg.png
+email: nlisausk@alumni.nd.edu
+copyright_name: nlisauskas
+description: > # this means to ignore newlines until "baseurl:"
+  My path towards developing skills to create a career I love
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  nlisauskas
+learn_profile: nlisauskas
+email_username: nlisausk@alumni.nd.edu
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
