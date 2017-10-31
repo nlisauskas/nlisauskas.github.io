@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Go Out There and ******* Want It"
-date:   2017-09-28 12:54:51 +0000
+title:      "Go Out There and (Really) Want It"
+date:       2017-09-28 08:54:52 -0400
+permalink:  go_out_there_and_want_it
 ---
 
 
