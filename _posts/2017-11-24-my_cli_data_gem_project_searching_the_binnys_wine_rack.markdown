@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "My CLI Data Gem Project: Searching the Binny's Wine Rack"
+date:       2017-11-24 15:27:55 +0000
+permalink:  my_cli_data_gem_project_searching_the_binnys_wine_rack
+---
+
+
+If you're from Chicago or the surrounding suburbs, there's no question you've been to Binny's. It's a great experience to head over to a Binny's and check out the selection of beers, wines, and expensive bottles of whiskey you'd never purchase in your right mind. The amount of variety Chicagoans have come to expect from Binny's is truly impressive. But on a day like today, where the temperature is in the upper 30's, the precipitation is constantly switching between rain, sleet, and snow, and there's a healthy amount of wind coming from seemingly all directions, it feels like a better idea to just scan the aisles of Binny's from the comfort of my home. Of course, I could just google the Binny's website and find what I'm looking for, but given that programmers are lazy by nature, I wanted to make it even easier to view a list of the wines Binny's has to offer.
+
+When I started building this program, I was undoubtedly a bit intimidated. I wasn't sure if my memory of what I've learned so far would be strong enough to get me through the development of a gem from start to finish. As I've learned so many different times in my life, however, the most important thing is (and was) to take the first step. So, I entered the Learn IDE and began to outline in my mind what the program could do for me. In my mind, as a novice wine drinker, the two most important things to me right off the bat are the name of the wine and the price. Let's be real - it's not often that I'm going for over a $20 bottle of wine at this point in my life. So, my first goal was to get my program to ouput a listing of the wines on Binny's website and their respective prices. This wasn't a small task for me, but I was able to accomplish my goal by watching Avi's sample videos of creating gems, googling (a ton), and spending significant amounts of time on Stack Overflow. It's true what they say - the best way to learn how to code is by building something. After a while, I was able get my listing of wines printed out cleanly and accurately (see the link to the right).!![](https://imgur.com/0wRVNFj)
+
+Needless to say, this was an awesome feeling and was the first time I really felt like I was on my road to becoming a programmer. But that was the easy task. What other functionality seemed important to me? Well, I wanted a user to be able to select a wine that caught their eye from the list. Upon selecting that wine, the program would give the user a more detailed description about the wine. At that point, if the user was really interested in the wine, they could select an option to take them to the web page of that given bottle of wine. For me to consider this project a success, I would need to cover all of the functionality discussed above. 
+
+There's a concept in business that is widely discussed and known as the Pareto Principle. In this situation, the Pareto Principle can be defined as follows: The first 80% of the work takes 20% of the time, and the last 20% of the work takes 80% of the time. That's how I feel about adding in my last components of functionality into this project. Being a completely fresh programmer, these little obstacles and challenges I have set for myself feel monumental even though the concepts behind them feel relatively simple. I have set a definitive goal for myself to finish this project by tonight. I will shoot my video walkthrough of how I wrote the code for this project on Sunday afternoon so that I can complete my first portfolio project and pick up the pace on my learning as we move into December. 
+
+Here's to finding cheap and delicious wines through the power of programming!
+
+
