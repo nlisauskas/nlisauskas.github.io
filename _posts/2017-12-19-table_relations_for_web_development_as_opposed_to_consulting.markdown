@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Table Relations for Web Development (as opposed to Consulting)"
+date:       2017-12-19 13:35:19 +0000
+permalink:  table_relations_for_web_development_as_opposed_to_consulting
+---
+
+
+As a management consultant, I felt I head a bit of a head start when it came to be time to learn about table relations as it relates to developing the backend of a web application. At my job, I have used SQL extensively for manipulating large datasets and developing informative analyses for our clients. With that experience in my back pocket, I was familiar with almost all of the commands and SQL code that was discussed through out the various SQL, ORM, and ActiveRecord labs and lessons. That said, the syntax was different from what I was used to at times, and I've never used SQL to manage data dynamically. I've only used it to analyze data that already existed. Learning about the uses of SQL in order to store massive amounts of data while connected to the Ruby code I am learning to write opened my eyes to the endless possibilities of learning to be a software engineer. This realization has reinvigorated my learning process and has me more excited than ever to continue learning to code.
+
+Where I feel the most ahead of the curve from a table relations standpoint is in my understanding of how SQL joins operate. Once you understand the concept of connecting tables through joins, it becomes quite easy to see the bigger picture, but I can empathize with those who had some struggles with the concept the first time they came across it. As a new hire at my first job, it took me several months to feel that I fully had the grasp of SQL so I felt very prepared for this portion of the web developer course. All in all, I still think I benefitted greatly from giong through the SQL, ORMs, and ActiveRecord portions of the course sequentially. I am now to the point where I am starting the Sinatra portion of my curriculum and it's helpful to see how all of those lessons I went through previously build up to these frameworks that make web development much more standardized and simpler from a code-writing perspective. I hope that my relatively deep knowledge of SQL will allow me to debug my code faster in the future.
